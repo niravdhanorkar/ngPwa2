@@ -1,0 +1,71 @@
+{
+  "configVersion": 1,
+  "index": "C:/Program Files/Git/ngPwa2/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "C:/Program Files/Git/ngPwa2/favicon.ico",
+        "C:/Program Files/Git/ngPwa2/index.html",
+        "C:/Program Files/Git/ngPwa2/main.78b1b91b87cdc92fe76c.js",
+        "C:/Program Files/Git/ngPwa2/polyfills.20d0bb3b90b253b298ff.js",
+        "C:/Program Files/Git/ngPwa2/runtime.b57bf819d5bdce77f1c7.js",
+        "C:/Program Files/Git/ngPwa2/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "C:/Program Files/Git/ngPwa2/assets/icons/icon-128x128.png",
+        "C:/Program Files/Git/ngPwa2/assets/icons/icon-144x144.png",
+        "C:/Program Files/Git/ngPwa2/assets/icons/icon-152x152.png",
+        "C:/Program Files/Git/ngPwa2/assets/icons/icon-192x192.png",
+        "C:/Program Files/Git/ngPwa2/assets/icons/icon-384x384.png",
+        "C:/Program Files/Git/ngPwa2/assets/icons/icon-512x512.png",
+        "C:/Program Files/Git/ngPwa2/assets/icons/icon-72x72.png",
+        "C:/Program Files/Git/ngPwa2/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "C:/Program Files/Git/ngPwa2/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "C:/Program Files/Git/ngPwa2/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "C:/Program Files/Git/ngPwa2/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "C:/Program Files/Git/ngPwa2/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "C:/Program Files/Git/ngPwa2/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "C:/Program Files/Git/ngPwa2/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "C:/Program Files/Git/ngPwa2/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "C:/Program Files/Git/ngPwa2/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "C:/Program Files/Git/ngPwa2/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "C:/Program Files/Git/ngPwa2/index.html": "d2cfb2e90414ff70012c253bca5402ac6818b283",
+    "C:/Program Files/Git/ngPwa2/main.78b1b91b87cdc92fe76c.js": "4f9e617a6d9a0b15ca7f00f5f6d80edf057ea2cb",
+    "C:/Program Files/Git/ngPwa2/polyfills.20d0bb3b90b253b298ff.js": "4ab98e11e44c4bc97507dfc711f8420a47d6f18e",
+    "C:/Program Files/Git/ngPwa2/runtime.b57bf819d5bdce77f1c7.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "C:/Program Files/Git/ngPwa2/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
